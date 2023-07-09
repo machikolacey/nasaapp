@@ -6,13 +6,13 @@ This is an app to fetch data from NASA APIs 'Astronomy Picture of the Day' and d
 ## Features<br />
 
 Change background image by clicking on 'Change background colour' button<br /><br />
-<img src="https://res.cloudinary.com/machikolacey/image/upload/v1688940559/nasaapp/image1_lhdbuy.jpg" style="width:200px;"  /><br />
+<img src="https://res.cloudinary.com/machikolacey/image/upload/v1688940559/nasaapp/image3_mj57hb.jpg" style="width:200px;"  /><br />
 <br />
 Show past images when cliked on one of the thumbnails<br /><br />
-<img src="https://res.cloudinary.com/machikolacey/image/upload/v1688940559/nasaapp/image1_lhdbuy.jpg" style="width:200px;"  /><br />
+<img src="https://res.cloudinary.com/machikolacey/image/upload/v1688940559/nasaapp/image4_tu9svf.jpg" style="width:200px;"  /><br />
 
 <br />
-## Technologies Used
+## Technologies<br />
 <br />
 <ul>
 <li>Laravel</li>
@@ -22,14 +22,10 @@ Show past images when cliked on one of the thumbnails<br /><br />
 <li>Bootstrap</li>
 </ul>
 
-### Image Library
+<br />
+## Image Library<br />
 
 This project is using images from <a href="https://cloudinary.com/" rel="nofollow">cloudinary.com</a>, which is used as alternative to image upload facility.
-
-## Deployment
-
-This project was developed on Github, using Gitpod as IDE. It has only master branch.
-This project utilises mySQL database.
 
 
 
